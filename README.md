@@ -1,5 +1,3 @@
-# Java
-In this depository I will learn about all topics of java from basics to advanced level and also learns oops and move on to the  data structure and algorithm
 # ☕ Java Learning & Practice
 
 This repository contains my **Java programming learning journey and practice programs**. I am building my Java fundamentals step by step, starting from the basics and gradually moving toward advanced concepts and **Data Structures & Algorithms (DSA)**.
